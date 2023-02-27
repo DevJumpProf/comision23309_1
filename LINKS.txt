@@ -1,4 +1,4 @@
-COMISIÓN 22809
+COMISIÓN 23809
 Les dejo los links a todos los accesos importantes:
 
 Link de clases:
@@ -6,7 +6,7 @@ Lunes y Miercoles 19 a 20.30
 https://meet.google.com/uoh-ftfo-nso
 
 Formulario de Asistencia:
-https://docs.google.com/forms/d/e/1FAIpQLSd5d3BdxS9n7r_ud_3LaPet2bdwuL_v-lYLY28wkqqEFJXXig/viewform
+https://docs.google.com/forms/d/e/1FAIpQLScu_31u1UuMlPVpDH8bcBNMW9C3KRe5pRj8yZenNESI2z-BBw/viewform
 
 Link clases grabadas:
 https://youtube.com/playlist?list=PL9FDV61UoWvJmkj6EMy_1SWvKmADt2R0c
@@ -18,7 +18,7 @@ Link aula virtual:
 https://aulasvirtuales.bue.edu.ar/
 
 Link github:
-https://github.com/DevJumpProf/comision22809_1_23.git
+https://github.com/DevJumpProf/comision23809_1
 
 Mails:
 Profesor Gabriel: gabriel.munoz@bue.edu.ar
