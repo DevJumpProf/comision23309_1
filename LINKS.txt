@@ -1,4 +1,4 @@
-COMISIÓN 23809
+COMISIÓN 23309
 Les dejo los links a todos los accesos importantes:
 
 Link de clases:
@@ -18,7 +18,7 @@ Link aula virtual:
 https://aulasvirtuales.bue.edu.ar/
 
 Link github:
-https://github.com/DevJumpProf/comision23809_1
+https://github.com/DevJumpProf/comision23309_1
 
 Mails:
 Profesor Gabriel: gabriel.munoz@bue.edu.ar
