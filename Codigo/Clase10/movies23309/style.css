@@ -1,0 +1,70 @@
+/* Ejercitacion : codigo a mejorar */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Monserrat",sans-serif;
+    background-color: azure;
+    color: #1d1d1d;
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 1000px;
+    margin:40px auto 100px auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    -ms-grid-colums: repeat(4,1fr);
+    gap: 40px   
+}
+
+.contenedor .pelicula{
+text-align: center;
+}
+
+.contenedor .pelicula .titulo{
+    font-size: 16px;
+    font-weight:600px;
+}
+
+.contenedor .pelicula .poster{
+    width:100%;
+    margin-bottom: 10px;
+    border-radius: 15px
+}
+
+.paginacion{
+    position: fixed;
+    bottom: 0;
+    background: #1d1d1d;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding:10px
+
+}
+
+.paginacion button {
+    cursor:pointer;
+    border:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 200px;
+    background:#241744;
+    color:beige;
+    border-radius: 100px;
+    font-family: "Monserrat",sans-serif;
+    font-weight: 600;
+    transition: .3s ease all;
+}
+
+.paginacion button:hover{
+    background-color: darkgreen;
+}
