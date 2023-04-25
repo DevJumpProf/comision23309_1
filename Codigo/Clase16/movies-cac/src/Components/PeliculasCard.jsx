@@ -1,5 +1,5 @@
 import "./PeliculasCard.css"
-/* import {Link} from "react-router-dom" */
+import {Link} from "react-router-dom" 
 
 export const PeliculasCard = ({pelicula}) => {
 
@@ -7,10 +7,10 @@ export const PeliculasCard = ({pelicula}) => {
 
   return (
     <li className="moviesCard">
- {/*      <Link to={`/pelicula/${pelicula.id}`}> */}
+ <Link to={`/pelicula/${pelicula.id}`}>
       <img className="movieImage" src={imgURL} alt={pelicula.title} />
       <div>{pelicula.original_title}</div>
-{/*       </Link> */}
+ </Link> 
     </li>
   );
 };
