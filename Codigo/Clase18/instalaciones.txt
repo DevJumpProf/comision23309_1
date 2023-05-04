@@ -1,0 +1,1 @@
+npm i firebase bootstrap react-router-dom sweetalert2 sweetalert2-react-content
