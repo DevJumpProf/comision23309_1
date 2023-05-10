@@ -12,7 +12,7 @@ export const Show = () =>{
 //1 configurar los hooks
 const [products, setProducts] = useState([])
 
-//2 referenciamos a la db de firestore
+//2 referenciamos a la db de firestores
  
 const productsCollection = collection(db,"products")
 //3 funcion para mostrar todos los doc en la db
@@ -22,7 +22,7 @@ const data = await getDocs(productsCollection)
 setProducts(
     data.docs.map((doc)=>(({...doc.data(),id:doc.id})))
     )
- /*    console.log(products) */
+    console.log(products)
 }
 
 //4 funcion para eliminar un doc
@@ -56,7 +56,6 @@ const confirmDelete=(id)=>{
 //6 useEffect para los cambios 
  useEffect(()=>{
     getProducts()
-      // eslint-disable-next-line
 },[])
 
 //7 devolvemos la vista a nuestro componente
