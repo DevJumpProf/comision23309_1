@@ -33,7 +33,9 @@ return(
     <div className="row">
         <div className="col">
             <small>CREATE POST</small>
-            <Link to="/create" className="btn btn-primary mt-2 mb-2"><i className="fas fa-plus"></i></Link>
+            <Link to="/create" className="btn btn-primary mt-2 mb-2">
+                <i className="fas fa-plus"></i>
+                </Link>
 <table className="table">
     <thead className="table-primary">
         <tr>
